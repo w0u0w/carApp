@@ -1,0 +1,10 @@
+String startLocation = 'no coord';
+String startAddress = 'no address';
+String endLocation = 'no coord';
+String endAddress = 'no address';
+String startTime = '0';
+String endTime = '0';
+String maxSpeed = '0';
+double curSpeed = 0.0;
+String minSpeed = '0';
+String alertScore = '0';
